@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center"><b>Hola, soy Bautista Alós Martorell</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div style="align: center; margin-top: 100px;">
-    <img height="650" width="1000" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+    <img height="500" width="1000" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
 <h2 align="center" style="margin-top: 100px;"><b>Sobre mí 🚀</b></h2> <!-- Agregado margen superior -->
 
