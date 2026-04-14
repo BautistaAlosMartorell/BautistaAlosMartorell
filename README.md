@@ -6,7 +6,7 @@
 </div>
 <h2 align="center" style="margin-top: 100px;"><b>Sobre mí 🚀</b></h2> <!-- Agregado margen superior -->
 
-<b>Soy estudiante de cuarto año de Ingeniería en Sistemas en la UTN FRM. Tengo conocimientos en desarrollo web, Data Science /b>
+<b>Soy estudiante de cuarto año de Ingeniería en Sistemas en la UTN FRM. Tengo conocimientos en desarrollo web, Data Science </b>
 
 <h2 align="center" style="margin-top: 100px;">💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2> <!-- Agregado margen superior -->
 <div>
